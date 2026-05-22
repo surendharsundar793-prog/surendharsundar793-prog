@@ -70,18 +70,5 @@ Responsive shopping website frontend.
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/surendharsundar793-prog" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
-</a>
-
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-</a>
-</p>
-
----
 
 <h3 align="center">✨ Keep Learning & Keep Building ✨</h3>
