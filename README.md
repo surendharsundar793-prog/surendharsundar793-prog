@@ -14,7 +14,6 @@
 
 # 🚀 About Me
 
-- 🌱 Currently learning **Docker, Kubernetes, Jenkins & AWS**
 - 💻 Interested in **DevOps and Scalable Applications**
 - 🔭 Working on **CI/CD and Cloud Projects**
 - 📚 Learning **Java Full Stack Development**
