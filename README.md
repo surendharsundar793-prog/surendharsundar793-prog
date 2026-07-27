@@ -164,7 +164,7 @@ I enjoy automating software delivery pipelines, managing cloud infrastructure, a
 
 📧 Email: **surendharsundar793@gmail.com**
 
-💼 LinkedIn: **linkedin.com/in/surendhar-s-8a40b6312**
+💼 LinkedIn: **https://linkedin.com/in/surendhar-s-8a40b6312**
 
 🌐 Portfolio: **https://surendharr.netlify.app/**
 
