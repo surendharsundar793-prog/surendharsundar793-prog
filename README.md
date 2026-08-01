@@ -166,7 +166,7 @@ I enjoy automating software delivery pipelines, managing cloud infrastructure, a
 
 💼 LinkedIn: **https://linkedin.com/in/surendhar-s-8a40b6312**
 
-🌐 Portfolio: **https://surendharr.netlify.app/**
+🌐 Portfolio: **https://surendhar-portfolio-web.vercel.app/**
 
 ---
 
