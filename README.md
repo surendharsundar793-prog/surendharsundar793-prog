@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | Java & Spring Boot Developer | AWS | Kubernetes | CI/CD</h3>
 
 <p align="center">
-  <a href="https://surendharr.netlify.app/" target="_blank">
+  <a href="https://surendhar-portfolio-web.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge" />
   </a>
   <a href="mailto:surendharsundar793@gmail.com">
